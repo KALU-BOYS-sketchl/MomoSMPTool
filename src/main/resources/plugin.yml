@@ -1,0 +1,18 @@
+4.0.0
+    com.donut
+    DonutTools
+    1.0
+
+    
+        
+            papermc
+            https://repo.papermc.io/repository/maven-public/
+        
+    
+
+    
+        
+            io.papermc.paper
+            paper-api
+            1.20.1-R0.1-SNAPSHOT
+            provided
